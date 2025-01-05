@@ -1,0 +1,24 @@
+{
+    "experiences": [
+      {
+        "title": "Senior Developer",
+        "company": "Tech Solutions Inc.",
+        "period": "2018 - Present",
+        "description": "Led development of enterprise-level .NET applications, focusing on scalability and performance optimization."
+      },
+      {
+        "title": "Web Developer",
+        "company": "Digital Creations Co.",
+        "period": "2015 - 2018",
+        "description": "Developed responsive web applications using C# and JavaScript, improving user engagement by 40%."
+      },
+      {
+        "title": "Junior Developer",
+        "company": "StartUp Innovations",
+        "period": "2013 - 2015",
+        "description": "Contributed to innovative web solutions, focusing on front-end technologies and UX design."
+      }
+    ]
+  }
+  
+  
