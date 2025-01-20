@@ -5,29 +5,26 @@
         "description": "A full-stack e-commerce solution with React, ASP.NET Core, and SQL Server",
         "details": "This project showcases a modern e-commerce platform built with a React frontend and ASP.NET Core backend. It features a responsive design, real-time inventory management, and secure payment processing. The application utilizes SQL Server for robust data storage and retrieval, ensuring high performance even with large product catalogs.",
         "tags": ["React", "ASP.NET Core", "SQL Server", "Redux", "Entity Framework"],
-        "image": "/placeholder.svg?height=80&width=120"
+        "image": "/placeholder.svg?height=80&width=120",
+        "link": "This project showcases "
       },
       {
         "title": "Task Management System",
         "description": "Efficient task tracking and team collaboration platform",
         "details": "This task management system is designed to boost team productivity and streamline project workflows. Built with C# and .NET, it leverages Azure cloud services for scalability and reliability. Key features include real-time updates, customizable workflows, and detailed analytics to track team performance and project progress.",
         "tags": ["C#", ".NET", "Azure", "SignalR", "Blazor"],
-        "image": "/placeholder.svg?height=80&width=120"
+        "image": "/placeholder.svg?height=80&width=120",
+        "link": "This project showcases "
       },
       {
         "title": "Data Visualization Dashboard",
         "description": "Interactive dashboard for real-time data analysis",
         "details": "This data visualization tool transforms complex datasets into intuitive, interactive visualizations. Using D3.js and React, it offers a range of chart types and customization options. The dashboard integrates with various data sources through a WebSocket connection, enabling real-time updates and allowing users to make data-driven decisions quickly.",
         "tags": ["D3.js", "React", "WebSocket", "Node.js", "MongoDB"],
-        "image": "/placeholder.svg?height=80&width=120"
-      },
-      {
-        "title": "API Gateway",
-        "description": "Centralized API management and security solution",
-        "details": "This API Gateway serves as a crucial component in a microservices architecture. Built with ASP.NET Core and deployed on Azure, it provides centralized authentication, rate limiting, and request routing. The gateway improves overall system security and performance by acting as a single entry point for all client requests, efficiently managing and distributing them across various microservices.",
-        "tags": ["ASP.NET Core", "Azure", "Microservices", "Ocelot", "JWT Authentication"],
-        "image": "/placeholder.svg?height=80&width=120"
+        "image": "/placeholder.svg?height=80&width=120",
+        "link": "This project showcases "
       }
+      
     ]
   }
   

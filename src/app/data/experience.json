@@ -1,24 +1,16 @@
 {
-    "experiences": [
-      {
-        "title": "Senior Developer",
-        "company": "Tech Solutions Inc.",
-        "period": "2018 - Present",
-        "description": "Led development of enterprise-level .NET applications, focusing on scalability and performance optimization."
-      },
-      {
-        "title": "Web Developer",
-        "company": "Digital Creations Co.",
-        "period": "2015 - 2018",
-        "description": "Developed responsive web applications using C# and JavaScript, improving user engagement by 40%."
-      },
-      {
-        "title": "Junior Developer",
-        "company": "StartUp Innovations",
-        "period": "2013 - 2015",
-        "description": "Contributed to innovative web solutions, focusing on front-end technologies and UX design."
-      }
-    ]
-  }
-  
-  
+  "experiences": [
+    {
+      "title": "Senior Developer",
+      "company": "Tech Solutions Inc.",
+      "period": "2018 - Present",
+      "description": "Engaged in the development and maintenance of web applications and enterprise systems, leveraging technologies such as C#, .NET Core, ASP.NET, SQL Server, Entity Framework, Web APIs and Microsoft Azure services, while adhering to agile methodologies.\nPlayed a key role in the creation of Atento AI Studio, an artificial intelligence initiative designed to simulate customer service scenarios, enhancing candidate management processes during the selection phase.\nConceptualized and implemented a Talent Reallocation System, optimizing post-contract employee management and achieving a 60% improvement in talent retention."
+    },
+    {
+      "title": "Junior Developer",
+      "company": "StartUp Innovations",
+      "period": "2013 - 2015",
+      "description": "Contributed to innaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/\n\n\n\n\nawdaw\nawdawd\nawdawd\n\nawdawd\n\n\n\n\n\n\n\nawdawdadaw\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\novative web solutions, focusing on front-end technologies and UX design."
+    }
+  ]
+}
